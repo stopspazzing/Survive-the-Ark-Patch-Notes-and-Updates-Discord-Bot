@@ -1,0 +1,9 @@
+discord.py
+aiohttp
+peewee
+flask
+requests_oauthlib
+requests
+BeautifulSoup4
+html5lib
+peony-twitter
