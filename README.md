@@ -8,3 +8,4 @@ Ark Game Discord Bot used to monitor updates and patch notes and display them in
 1. Python 3.7.x or greater
 2. API code from Discord Bot page
 3. If using twitter portion, twitter api code
+4. Port forward for the chosen port to all callbacks to reach your server, highly recommend restricting it to specific IP's, such as the provider you chose to monitor rss/youtube/website/news changes.
